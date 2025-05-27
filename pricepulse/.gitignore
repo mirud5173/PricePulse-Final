@@ -1,0 +1,23 @@
+# Ignore Python virtual environments
+venv/
+backend/venv/
+.env/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Byte-compiled / optimized / DLL files
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# VSCode and PyCharm settings (optional)
+.vscode/
+.idea/
+
+# macOS system files
+.DS_Store
+
